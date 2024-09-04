@@ -1,10 +1,10 @@
 # Deep Learning-Based Emotion Analysis and Classification from Albanian Speech Data
 
 ## Authors
-- Prof. Dr. Bahadır KARASULU
-- Elif AVCI
-- Tesnim STRAZIMIRI
-- Betül CENGİZ
+- Prof. Dr. Bahadır KARASULU - bahadirkarasulu@comu.edu.tr 
+- Elif AVCI - elffavci@gmail.com
+- Tesnim STRAZIMIRI - tesnimastrazimiri@gmail.com
+- Betül CENGİZ - cengizzbetul@gmail.com
 
 ## Overview
 This project aims to classify emotions by obtaining mel spectrograms from Albanian speech data. Emotion recognition plays a crucial role in human-computer interaction. Mel spectrograms, which are time-frequency representations of audio signals, provide a rich feature set for emotion classification models. In this presentation, the methodology, model architectures, and the results obtained will be discussed.
